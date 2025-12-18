@@ -1,27 +1,27 @@
-# Project Title : [Eduproctor](edu-proctor.vercel.app/)
+# Project Title : [FocusLearn-AI](edu-proctor.vercel.app/)
 
-Eduproctor is an innovative platform aimed at enhancing online learning experiences through real-time eye tracking and AI-generated quizzes.
+FocusLearn-AI is an innovative platform aimed at enhancing online learning experiences through real-time eye tracking and AI-generated quizzes.
 
 
 
 ## Introduction
 
-Eduproctor addresses the challenges faced by students in online learning environments, such as distractions and lack of engagement, by leveraging cutting-edge technologies.
-With real-time eye tracking and AI-generated quizzes, Eduproctor aims to improve student focus and comprehension during online classes.
+FocusLearn-AI addresses the challenges faced by students in online learning environments, such as distractions and lack of engagement, by leveraging cutting-edge technologies.
+With real-time eye tracking and AI-generated quizzes, FocusLearn-AI aims to improve student focus and comprehension during online classes.
 
 
 
 
-![Flow](https://github.com/AkhileshJyotishi/EduProctor/assets/119918405/22f465b6-8611-43cc-a320-7a075532af45)  ![AI-Show](https://github.com/AkhileshJyotishi/EduProctor/assets/119918405/49d1f51d-acd8-4ea7-b785-f40e50c6242a)
+![Flow](https://github.com/AkhileshJyotishi/Eduproctor/assets/119918405/22f465b6-8611-43cc-a320-7a075532af45)  ![AI-Show](https://github.com/AkhileshJyotishi/Eduproctor/assets/119918405/49d1f51d-acd8-4ea7-b785-f40e50c6242a)
 
 ## Configuration & Installation
 
 
-To get started with Eduproctor, ensure you have the following dependencies and tools installed:
+To get started with FocusLearn-AI, ensure you have the following dependencies and tools installed:
 
 ### Frontend
 
-2. Next.js: Eduproctor is built using Next.js, a React framework for server-rendered applications along with webrtc . Install it globally using npm :
+2. Next.js: FocusLearn-AI is built using Next.js, a React framework for server-rendered applications along with webrtc . Install it globally using npm :
 
    ```
    npm install -g next
@@ -29,13 +29,13 @@ To get started with Eduproctor, ensure you have the following dependencies and t
 
 Once you have installed the necessary dependencies, follow these steps to set up the development environment:
 
-1. Clone the Eduproctor repository from GitHub:
+1. Clone the FocusLearn-AI repository from GitHub:
    ```
-   git clone https://github.com/AkhileshJyotishi/EduProctor.git
+   git clone https://github.com/AkhileshJyotishi/FocusLearn-AI.git
    ```
 2. Navigate to the project directory:
    ```
-   cd EduProctor
+   cd FocusLearn-AI
    ```
 3. Install project dependencies:
    ```
@@ -61,7 +61,7 @@ Once you have installed the necessary dependencies, follow these steps to set up
    ```
    npm run dev
    ```
-6. Open your browser and navigate to http://localhost:3000 to access Eduproctor.
+6. Open your browser and navigate to http://localhost:3000 to access FocusLearn-AI.
 
 ### Backend
 
@@ -105,11 +105,11 @@ tar -xvf  s2v_reddit_2015_md.tar.gz
 ```
 ## Details
 
-Eduproctor offers a range of features designed to enhance the online learning experience:
+FocusLearn-AI offers a range of features designed to enhance the online learning experience:
 
 ### 1.  Real-Time Eye Tracking:
 
-  - Eduproctor employs real-time eye tracking technology to monitor students' attention during online classes.
+  - FocusLearn-AI employs real-time eye tracking technology to monitor students' attention during online classes.
 
   - If distractions are detected, alerts are sent to students, prompting them to refocus on the lesson.
 
@@ -122,9 +122,9 @@ Eduproctor offers a range of features designed to enhance the online learning ex
 
 ### 3.Seamless Integration:
 
-  - Eduproctor seamlessly integrates with existing online learning platforms, providing a seamless experience for both students and educators.
+  - FocusLearn-AI seamlessly integrates with existing online learning platforms, providing a seamless experience for both students and educators.
 
-  - Teachers can easily incorporate Eduproctor into their online classes to enhance student engagement and comprehension.
+  - Teachers can easily incorporate FocusLearn-AI into their online classes to enhance student engagement and comprehension.
 
 
 
